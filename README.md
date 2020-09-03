@@ -1,3 +1,3 @@
 # bouncinggame
 
-A simple alien game built with python
+A simple bouncing game ui built with python
